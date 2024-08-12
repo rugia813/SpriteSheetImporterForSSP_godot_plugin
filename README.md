@@ -5,7 +5,6 @@ This is a plugin for [Godot Engine](https://godotengine.org) to import
 
 **Note: This is compatible only with Godot 4.0 or later.**
 
-
 ## Installation
 
 Download or clone this repository and copy the contents of the
@@ -19,9 +18,10 @@ Important: Enable the plugin on the Project Settings.
 
 ## Usage (once the plugin is enabled)
 
-1. Save your sprite sheets in your project folder as an JSON (ARRAY)
+1. Save your sprite sheets in your project folder as an json
 2. Watch Godot import it automatically.
-
+![example1](example1.png)
+![example2](example2.png)
 ## License
 
 [MIT License](LICENSE). Copyright (c) 2024 rugia813
